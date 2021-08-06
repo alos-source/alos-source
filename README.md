@@ -8,7 +8,7 @@ Furthermore, i am always looking for new opportunites to engage in topics relate
 - Home-Automation
 - Biking & Hiking
 
-See also my [Thingiverse-Profile](bit.ly/alos-things).
+See also my [Thingiverse-Profile](www.bit.ly/alos-things).
 
 <!--
 **alos-source/alos-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
