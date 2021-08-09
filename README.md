@@ -9,6 +9,7 @@ Furthermore, i am always looking for new opportunites to engage in topics relate
 - Biking & Hiking
 
 See also my [Thingiverse-Profile](http://www.bit.ly/alos-things).
+My public gpg-key is 0x4a460732530796d5.
 
 <!--
 **alos-source/alos-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
