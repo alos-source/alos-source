@@ -4,12 +4,12 @@ This is my GitHub Readme-Section.
 ### 🌱 Currenty Activities
 I am currently learning Basic HTML, CSS and JavaScript as well as git. Also i am trying a little python and powershell. As Code Editor i am working with VS Code.
 
-My projects are mainly learing projects, no productive code. So i would be happy about suggestions for improval.
+My projects are mainly learning projects, no productive code. So i would be happy about suggestions for improvement.
 Looking forward to your issue.
 
 ### Values
-- Optimisim / Positive Mindset
-- Curiousity
+- Optimism / Positive Mindset
+- Curiosity
 - Technology enthusiasm
 
 ### Topics
@@ -20,7 +20,7 @@ Public Key:
 				`0x4a460732530796d5`
 
 ### Profiles
-Furthermore, i am always looking for new opportunites to engage in topics related to things of my interest fields:
+Furthermore, i am always looking for new opportunities to engage in topics related to things of my interest fields:
 - Gaming (Board-Games and Computer Games)
 - Home-Automation
 - Biking & Hiking
