@@ -21,7 +21,7 @@ Public Key:
 
 ### Profiles
 Furthermore, i am always looking for new opportunities to engage in topics related to things of my interest fields:
-- Gaming (Board-Games and Computer Games)
+- Gaming (Board-Games and Computer Games), [Wordle](https://www.nytimes.com/games/wordle/index.html) or [Heardle](https://www.heardle.app/)
 - Home-Automation
 - Biking & Hiking
 
