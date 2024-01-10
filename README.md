@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my GitHub Readme-Section.
+This is my GitHub Readme-Section. This page is best viewed in dark mode, you can switch this in your [github settings](https://github.com/settings/appearance).
 
 ### 🌱 Currenty Activities
 I am currently learning Basic HTML, CSS and JavaScript as well as git. Also i am trying a little python and powershell. As Code Editor i am working with VS Code.
