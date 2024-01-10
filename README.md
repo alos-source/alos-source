@@ -29,6 +29,8 @@ See also my Profiles on [Thingiverse](http://www.bit.ly/alos-things) and [500px]
 
 ![CMD](./media/CMD.gif)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alos-source&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **alos-source/alos-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
